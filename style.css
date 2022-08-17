@@ -1,0 +1,37 @@
+.container-fluid{
+    padding: 0;
+}
+.bg{
+    background-color: #FCD34D !important;
+}
+.nav-link{
+    color: #505050;
+}
+img {
+    width: 450px;
+    height: 450px;
+}
+.a{
+    display: table-cell;
+    margin: auto;
+    width: 65%;
+    height: 470px;
+    padding: auto 10px;
+    vertical-align: middle;
+}
+.back{
+    width: 250px;
+    height: 500px;
+}
+.svg img{
+    height: 80px;
+    width: 200px;
+}
+.social img{
+    height: 50px;
+    width: 50px;
+}
+.demo {
+    margin-bottom: 0;
+    height: 470px;
+}
